@@ -1,0 +1,9 @@
+2019/12/11 14:29:30 23268 :8088
+before
+id: , name:
+after
+[GIN] 2019/12/11 - 14:29:48 | 200 |     302.805µs |       127.0.0.1 | POST     /helloworld
+before
+id: 1233, name:test
+after
+[GIN] 2019/12/11 - 14:30:09 | 200 |     201.297µs |       127.0.0.1 | POST     /helloworld?id=1233
